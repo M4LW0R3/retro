@@ -17,6 +17,7 @@ body{
 .nav{
     position: absolute;
     left: 50%;
+    top: 1%;
     
 }
 .nav ul{
@@ -31,4 +32,9 @@ body{
 
 
     
+}
+.active{
+    color: #fff;
+    background: #e02626;
+    border-radius: 4px;
 }
